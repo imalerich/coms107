@@ -1,0 +1,12 @@
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\bin\Debug\Castle Project.exe.config
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\bin\Debug\Castle Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\bin\Debug\Castle Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\bin\Debug\Castle Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\obj\Debug\Castle Project.vbprojResolveAssemblyReference.cache
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\obj\Debug\Castle_Project.Form1.resources
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\obj\Debug\Castle_Project.Resources.resources
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\obj\Debug\Castle Project.vbproj.GenerateResource.Cache
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\obj\Debug\Castle Project.vbproj.CoreCompileInputs.cache
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\obj\Debug\Castle Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\obj\Debug\Castle Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\Castle Solution\Castle Project\obj\Debug\Castle Project.pdb
