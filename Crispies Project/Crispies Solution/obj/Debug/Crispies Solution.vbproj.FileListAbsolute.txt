@@ -1,0 +1,12 @@
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\bin\Debug\Crispies Solution.exe.config
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\bin\Debug\Crispies Solution.exe
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\bin\Debug\Crispies Solution.pdb
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\bin\Debug\Crispies Solution.xml
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\obj\Debug\Crispies Solution.vbprojResolveAssemblyReference.cache
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\obj\Debug\Crispies_Solution.Form1.resources
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\obj\Debug\Crispies_Solution.Resources.resources
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\obj\Debug\Crispies Solution.vbproj.GenerateResource.Cache
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\obj\Debug\Crispies Solution.vbproj.CoreCompileInputs.cache
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\obj\Debug\Crispies Solution.exe
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\obj\Debug\Crispies Solution.xml
+C:\Users\ianma\Documents\GitHub\coms107\Crispies Project\Crispies Solution\obj\Debug\Crispies Solution.pdb
