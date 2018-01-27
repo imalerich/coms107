@@ -74,6 +74,7 @@ Partial Class Form1
         '
         'coffeeTextBox
         '
+        Me.coffeeTextBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.coffeeTextBox.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.coffeeTextBox.Location = New System.Drawing.Point(62, 77)
         Me.coffeeTextBox.Name = "coffeeTextBox"
@@ -92,7 +93,7 @@ Partial Class Form1
         '
         'calcLabel
         '
-        Me.calcLabel.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
+        Me.calcLabel.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle
         Me.calcLabel.Location = New System.Drawing.Point(62, 110)
         Me.calcLabel.Name = "calcLabel"
         Me.calcLabel.Size = New System.Drawing.Size(245, 46)
