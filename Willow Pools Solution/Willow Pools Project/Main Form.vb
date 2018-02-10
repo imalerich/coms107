@@ -7,6 +7,10 @@
     ' the user clicks on the calculate button.
     Dim calculatedVolume As Integer = 0
 
+    Private Const title As String = "Coach"
+
+    Dim amount As Integer
+
     Private Sub ExitButton_Click(sender As Object, e As EventArgs) Handles ExitButton.Click
         Me.Close()
     End Sub
@@ -25,8 +29,13 @@
 
     Private Sub CalcButton_Click(sender As Object, e As EventArgs) Handles CalcButton.Click
         ' Calculate the volume by multiplying the width, height, and length.
-        calculatedVolume = givenHeight * givenWidth * givenLength
+        ' calculatedVolume = givenHeight * givenWidth * givenLength
         ' Then update the calculate volume label with the string version of the calculated Integer.
-        CalcVolumeLabel.Text = calculatedVolume.ToString
+        ' CalcVolumeLabel.Text = calculatedVolume.ToString
+        Dim first_number As Decimal
+        Dim second_number As Decimal
+        Decimal.TryParse("1 17", first_number)
+        Decimal.TryParse("-17.0", second_number)
+        CalcVolumeLabel.Text = (157 Mod 5).ToString
     End Sub
 End Class
