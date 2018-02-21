@@ -5,11 +5,11 @@
     Dim gallonsUsedValue As Integer = 0
     Dim totalChargeValue As Double = 0.0
 
-    Private Sub exitButton_Click(sender As Object, e As EventArgs) Handles exitButton.Click
-        Me.Close()
-    End Sub
+	Private Sub exitButton_Click(sender As Object, e As EventArgs) Handles exitButton.Click
+		Me.Close()
+	End Sub
 
-    Private Sub currentReading_TextChanged(sender As Object, e As EventArgs) Handles currentReading.TextChanged
+	Private Sub currentReading_TextChanged(sender As Object, e As EventArgs) Handles currentReading.TextChanged
         Dim valAsDouble As Double = 0 ' Allow the user to input double values...
         Double.TryParse(currentReading.Text, valAsDouble)
         currentReadingValue = Math.Round(valAsDouble) ' but round that value to the nearest integer.

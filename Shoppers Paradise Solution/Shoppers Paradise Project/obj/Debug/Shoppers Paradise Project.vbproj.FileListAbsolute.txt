@@ -10,3 +10,15 @@ C:\Users\ianma\source\repos\Shoppers Paradise Solution\Shoppers Paradise Project
 C:\Users\ianma\source\repos\Shoppers Paradise Solution\Shoppers Paradise Project\obj\Debug\Shoppers Paradise Project.exe
 C:\Users\ianma\source\repos\Shoppers Paradise Solution\Shoppers Paradise Project\obj\Debug\Shoppers Paradise Project.xml
 C:\Users\ianma\source\repos\Shoppers Paradise Solution\Shoppers Paradise Project\obj\Debug\Shoppers Paradise Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\bin\Debug\Shoppers Paradise Project.exe.config
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\bin\Debug\Shoppers Paradise Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\bin\Debug\Shoppers Paradise Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\bin\Debug\Shoppers Paradise Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\obj\Debug\Shoppers Paradise Project.vbprojResolveAssemblyReference.cache
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\obj\Debug\Shoppers_Paradise_Project.Form1.resources
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\obj\Debug\Shoppers_Paradise_Project.Resources.resources
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\obj\Debug\Shoppers Paradise Project.vbproj.GenerateResource.Cache
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\obj\Debug\Shoppers Paradise Project.vbproj.CoreCompileInputs.cache
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\obj\Debug\Shoppers Paradise Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\obj\Debug\Shoppers Paradise Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\Shoppers Paradise Solution\Shoppers Paradise Project\obj\Debug\Shoppers Paradise Project.pdb

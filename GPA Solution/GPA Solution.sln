@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GPA Project", "GPA Project\GPA Project.vbproj", "{6257CB2D-63ED-4C2D-BA02-978A819DB018}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6257CB2D-63ED-4C2D-BA02-978A819DB018}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6257CB2D-63ED-4C2D-BA02-978A819DB018}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6257CB2D-63ED-4C2D-BA02-978A819DB018}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6257CB2D-63ED-4C2D-BA02-978A819DB018}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {910BC5F1-63DB-40B8-8208-87B40D43FD8C}
+	EndGlobalSection
+EndGlobal
