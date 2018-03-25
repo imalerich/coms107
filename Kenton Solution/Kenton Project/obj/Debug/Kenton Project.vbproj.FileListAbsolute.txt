@@ -1,0 +1,12 @@
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\bin\Debug\Kenton Project.exe.config
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\bin\Debug\Kenton Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\bin\Debug\Kenton Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\bin\Debug\Kenton Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\obj\Debug\Kenton Project.vbprojResolveAssemblyReference.cache
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\obj\Debug\Kenton_Project.Form1.resources
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\obj\Debug\Kenton_Project.Resources.resources
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\obj\Debug\Kenton Project.vbproj.GenerateResource.Cache
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\obj\Debug\Kenton Project.vbproj.CoreCompileInputs.cache
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\obj\Debug\Kenton Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\obj\Debug\Kenton Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\Kenton Solution\Kenton Project\obj\Debug\Kenton Project.pdb

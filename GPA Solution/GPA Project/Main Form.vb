@@ -69,13 +69,13 @@
 		End If
 
 		' Now that we have all data calculated, we can update our labels.
-		allStudentsLabel.Text = avgStudentGPA.ToString("0.0")
+		allStudentsLabel.Text = avgStudentGPA.ToString("0.00")
 		' Keep male/female averages empty until we have actual data to show.
 		If maleCount > 0 Then
-			maleStudentsLabel.Text = avgMaleGPA.ToString("0.0")
+			maleStudentsLabel.Text = avgMaleGPA.ToString("0.00")
 		End If
 		If femaleCount > 0 Then
-			femaleStudentsLabel.Text = avgFemaleGPA.ToString("0.0")
+			femaleStudentsLabel.Text = avgFemaleGPA.ToString("0.00")
 		End If
 	End Sub
 End Class
