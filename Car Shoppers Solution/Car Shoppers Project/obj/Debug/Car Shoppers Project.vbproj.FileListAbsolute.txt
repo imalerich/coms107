@@ -20,3 +20,14 @@ E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\
 E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car_Shoppers_Project.Resources.resources
 E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\obj\Debug\GenerateResource.read.1.tlog
 E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\ianma\Documents\GitHub\coms107\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.vbprojResolveAssemblyReference.cache
+C:\Users\ianma\Documents\GitHub\coms107\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car_Shoppers_Project.MainForm.resources
+C:\Users\ianma\Documents\GitHub\coms107\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car_Shoppers_Project.Resources.resources
+C:\Users\ianma\Documents\GitHub\coms107\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.vbproj.GenerateResource.Cache
+C:\Users\ianma\Documents\GitHub\coms107\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.vbproj.CoreCompileInputs.cache
+C:\Users\ianma\Documents\GitHub\coms107\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\Car Shoppers Solution\Car Shoppers Project\bin\Debug\Car Shoppers Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\Car Shoppers Solution\Car Shoppers Project\bin\Debug\Car Shoppers Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\Car Shoppers Solution\Car Shoppers Project\bin\Debug\Car Shoppers Project.xml
