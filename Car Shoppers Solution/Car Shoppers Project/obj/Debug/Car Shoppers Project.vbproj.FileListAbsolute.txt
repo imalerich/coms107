@@ -1,0 +1,22 @@
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap08\Car Shoppers Solution\Car Shoppers Project\bin\Debug\Car Shoppers Project.exe
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap08\Car Shoppers Solution\Car Shoppers Project\bin\Debug\Car Shoppers Project.pdb
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap08\Car Shoppers Solution\Car Shoppers Project\bin\Debug\Car Shoppers Project.xml
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap08\Car Shoppers Solution\Car Shoppers Project\obj\Debug\ResolveAssemblyReference.cache
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap08\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car_Shoppers_Project.MainForm.resources
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap08\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car_Shoppers_Project.Resources.resources
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap08\Car Shoppers Solution\Car Shoppers Project\obj\Debug\GenerateResource.read.1.tlog
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap08\Car Shoppers Solution\Car Shoppers Project\obj\Debug\GenerateResource.write.1.tlog
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap08\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.exe
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap08\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.xml
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap08\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.pdb
+E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.exe
+E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.xml
+E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car Shoppers Project.pdb
+E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\bin\Debug\Car Shoppers Project.exe
+E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\bin\Debug\Car Shoppers Project.pdb
+E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\bin\Debug\Car Shoppers Project.xml
+E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\obj\Debug\ResolveAssemblyReference.cache
+E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car_Shoppers_Project.MainForm.resources
+E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\obj\Debug\Car_Shoppers_Project.Resources.resources
+E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\obj\Debug\GenerateResource.read.1.tlog
+E:\ISU DUTIES\COM S 107\My Assignments\Week 8 - Chapter 8\Car Shoppers Solution\Car Shoppers Project\obj\Debug\GenerateResource.write.1.tlog
