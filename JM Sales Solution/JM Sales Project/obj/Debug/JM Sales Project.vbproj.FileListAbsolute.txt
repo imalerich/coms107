@@ -1,0 +1,17 @@
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap09\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.exe
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap09\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.pdb
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap09\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.xml
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap09\JM Sales Solution\JM Sales Project\obj\Debug\ResolveAssemblyReference.cache
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap09\JM Sales Solution\JM Sales Project\obj\Debug\JM_Sales_Project.MainForm.resources
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap09\JM Sales Solution\JM Sales Project\obj\Debug\JM_Sales_Project.Resources.resources
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap09\JM Sales Solution\JM Sales Project\obj\Debug\GenerateResource.read.1.tlog
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap09\JM Sales Solution\JM Sales Project\obj\Debug\GenerateResource.write.1.tlog
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap09\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.exe
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap09\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.xml
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap09\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.pdb
+E:\ISU DUTIES\COM S 107\My Assignments\Week 9 - Chapter 9\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.exe
+E:\ISU DUTIES\COM S 107\My Assignments\Week 9 - Chapter 9\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.xml
+E:\ISU DUTIES\COM S 107\My Assignments\Week 9 - Chapter 9\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.pdb
+C:\Users\sterling\Downloads\JM Sales Solution(1)(1)\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.exe
+C:\Users\sterling\Downloads\JM Sales Solution(1)(1)\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.xml
+C:\Users\sterling\Downloads\JM Sales Solution(1)(1)\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.pdb
