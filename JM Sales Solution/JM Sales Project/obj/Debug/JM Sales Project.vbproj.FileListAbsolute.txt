@@ -15,3 +15,14 @@ E:\ISU DUTIES\COM S 107\My Assignments\Week 9 - Chapter 9\JM Sales Solution\JM S
 C:\Users\sterling\Downloads\JM Sales Solution(1)(1)\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.exe
 C:\Users\sterling\Downloads\JM Sales Solution(1)(1)\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.xml
 C:\Users\sterling\Downloads\JM Sales Solution(1)(1)\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\JM Sales Solution\JM Sales Project\bin\Debug\JM Sales Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.vbprojResolveAssemblyReference.cache
+C:\Users\ianma\Documents\GitHub\coms107\JM Sales Solution\JM Sales Project\obj\Debug\JM_Sales_Project.MainForm.resources
+C:\Users\ianma\Documents\GitHub\coms107\JM Sales Solution\JM Sales Project\obj\Debug\JM_Sales_Project.Resources.resources
+C:\Users\ianma\Documents\GitHub\coms107\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.vbproj.GenerateResource.Cache
+C:\Users\ianma\Documents\GitHub\coms107\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.vbproj.CoreCompileInputs.cache
+C:\Users\ianma\Documents\GitHub\coms107\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\JM Sales Solution\JM Sales Project\obj\Debug\JM Sales Project.pdb
