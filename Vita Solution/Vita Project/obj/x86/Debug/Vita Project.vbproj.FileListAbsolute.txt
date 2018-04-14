@@ -1,0 +1,25 @@
+E:\ISU DUTIES\COM S 107\My Assignments\Week 10 - Chapter 10\Vita Solution\Vita Project\bin\Debug\Vita Project.exe
+E:\ISU DUTIES\COM S 107\My Assignments\Week 10 - Chapter 10\Vita Solution\Vita Project\bin\Debug\Vita Project.pdb
+E:\ISU DUTIES\COM S 107\My Assignments\Week 10 - Chapter 10\Vita Solution\Vita Project\bin\Debug\Vita Project.xml
+E:\ISU DUTIES\COM S 107\My Assignments\Week 10 - Chapter 10\Vita Solution\Vita Project\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\ISU DUTIES\COM S 107\My Assignments\Week 10 - Chapter 10\Vita Solution\Vita Project\obj\x86\Debug\Vita_Project.MainForm.resources
+E:\ISU DUTIES\COM S 107\My Assignments\Week 10 - Chapter 10\Vita Solution\Vita Project\obj\x86\Debug\Vita_Project.Resources.resources
+E:\ISU DUTIES\COM S 107\My Assignments\Week 10 - Chapter 10\Vita Solution\Vita Project\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\ISU DUTIES\COM S 107\My Assignments\Week 10 - Chapter 10\Vita Solution\Vita Project\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\ISU DUTIES\COM S 107\My Assignments\Week 10 - Chapter 10\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.exe
+E:\ISU DUTIES\COM S 107\My Assignments\Week 10 - Chapter 10\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.xml
+E:\ISU DUTIES\COM S 107\My Assignments\Week 10 - Chapter 10\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.pdb
+C:\Users\sterling\Documents\Vita Solution(1)(1)\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.exe
+C:\Users\sterling\Documents\Vita Solution(1)(1)\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.xml
+C:\Users\sterling\Documents\Vita Solution(1)(1)\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\Vita Solution\Vita Project\bin\Debug\Vita Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\Vita Solution\Vita Project\bin\Debug\Vita Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\Vita Solution\Vita Project\bin\Debug\Vita Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.vbprojResolveAssemblyReference.cache
+C:\Users\ianma\Documents\GitHub\coms107\Vita Solution\Vita Project\obj\x86\Debug\Vita_Project.MainForm.resources
+C:\Users\ianma\Documents\GitHub\coms107\Vita Solution\Vita Project\obj\x86\Debug\Vita_Project.Resources.resources
+C:\Users\ianma\Documents\GitHub\coms107\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.vbproj.GenerateResource.Cache
+C:\Users\ianma\Documents\GitHub\coms107\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.vbproj.CoreCompileInputs.cache
+C:\Users\ianma\Documents\GitHub\coms107\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\Vita Solution\Vita Project\obj\x86\Debug\Vita Project.pdb
