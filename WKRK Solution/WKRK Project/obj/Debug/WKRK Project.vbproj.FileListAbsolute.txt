@@ -1,0 +1,36 @@
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap11\WKRK Solution\WKRK Project\bin\Debug\WKRK Project.exe
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap11\WKRK Solution\WKRK Project\bin\Debug\WKRK Project.pdb
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap11\WKRK Solution\WKRK Project\bin\Debug\WKRK Project.xml
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap11\WKRK Solution\WKRK Project\obj\Debug\ResolveAssemblyReference.cache
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap11\WKRK Solution\WKRK Project\obj\Debug\WKRK_Project.MainForm.resources
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap11\WKRK Solution\WKRK Project\obj\Debug\WKRK_Project.Resources.resources
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap11\WKRK Solution\WKRK Project\obj\Debug\GenerateResource.read.1.tlog
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap11\WKRK Solution\WKRK Project\obj\Debug\GenerateResource.write.1.tlog
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap11\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.exe
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap11\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.xml
+E:\ISU DUTIES\COM S 107\Solution to Exercises\11112-21790s\VbReloaded2010\Chap11\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.pdb
+E:\ISU DUTIES\COM S 107\My Assignments\Week11 - Chapter 11\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.exe
+E:\ISU DUTIES\COM S 107\My Assignments\Week11 - Chapter 11\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.xml
+E:\ISU DUTIES\COM S 107\My Assignments\Week11 - Chapter 11\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.pdb
+E:\ISU DUTIES\COM S 107\My Assignments\Week11 - Chapter 11\WKRK Solution\WKRK Project\bin\Debug\WKRK Project.exe
+E:\ISU DUTIES\COM S 107\My Assignments\Week11 - Chapter 11\WKRK Solution\WKRK Project\bin\Debug\WKRK Project.pdb
+E:\ISU DUTIES\COM S 107\My Assignments\Week11 - Chapter 11\WKRK Solution\WKRK Project\bin\Debug\WKRK Project.xml
+E:\ISU DUTIES\COM S 107\My Assignments\Week11 - Chapter 11\WKRK Solution\WKRK Project\obj\Debug\ResolveAssemblyReference.cache
+E:\ISU DUTIES\COM S 107\My Assignments\Week11 - Chapter 11\WKRK Solution\WKRK Project\obj\Debug\WKRK_Project.MainForm.resources
+E:\ISU DUTIES\COM S 107\My Assignments\Week11 - Chapter 11\WKRK Solution\WKRK Project\obj\Debug\WKRK_Project.Resources.resources
+E:\ISU DUTIES\COM S 107\My Assignments\Week11 - Chapter 11\WKRK Solution\WKRK Project\obj\Debug\GenerateResource.read.1.tlog
+E:\ISU DUTIES\COM S 107\My Assignments\Week11 - Chapter 11\WKRK Solution\WKRK Project\obj\Debug\GenerateResource.write.1.tlog
+G:\Week11 - Chapter 11\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.exe
+G:\Week11 - Chapter 11\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.xml
+G:\Week11 - Chapter 11\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.vbprojResolveAssemblyReference.cache
+C:\Users\ianma\Documents\GitHub\coms107\WKRK Solution\WKRK Project\obj\Debug\WKRK_Project.MainForm.resources
+C:\Users\ianma\Documents\GitHub\coms107\WKRK Solution\WKRK Project\obj\Debug\WKRK_Project.Resources.resources
+C:\Users\ianma\Documents\GitHub\coms107\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.vbproj.GenerateResource.Cache
+C:\Users\ianma\Documents\GitHub\coms107\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.vbproj.CoreCompileInputs.cache
+C:\Users\ianma\Documents\GitHub\coms107\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.xml
+C:\Users\ianma\Documents\GitHub\coms107\WKRK Solution\WKRK Project\obj\Debug\WKRK Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\WKRK Solution\WKRK Project\bin\Debug\WKRK Project.exe
+C:\Users\ianma\Documents\GitHub\coms107\WKRK Solution\WKRK Project\bin\Debug\WKRK Project.pdb
+C:\Users\ianma\Documents\GitHub\coms107\WKRK Solution\WKRK Project\bin\Debug\WKRK Project.xml
